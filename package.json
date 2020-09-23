@@ -1,0 +1,23 @@
+{
+  "name": "tesis",
+  "version": "1.0.0",
+  "description": "Página donde voy a ir armando mi tesis de grado de la materia Administración de empresas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mar156/Tesis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mar156/Tesis/issues"
+  },
+  "homepage": "https://github.com/mar156/Tesis",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
